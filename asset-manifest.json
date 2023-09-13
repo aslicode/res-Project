@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/responsive-react/static/css/main.e094f51d.css",
+    "main.js": "/responsive-react/static/js/main.f4f68349.js",
+    "static/media/header-intro.png": "/responsive-react/static/media/header-intro.fccd4d4dfda71d2b4d45.png",
+    "static/media/bootstrap.png": "/responsive-react/static/media/bootstrap.0b1f5c73ad1fd38310e4.png",
+    "static/media/Vazir.ttf": "/responsive-react/static/media/Vazir.8698ab7164cb8aa9f35b.ttf",
+    "static/media/caneveryone.jpg": "/responsive-react/static/media/caneveryone.827ce28e0c3b333435c4.jpg",
+    "static/media/faq.png": "/responsive-react/static/media/faq.badcad2b8ff562d9efd3.png",
+    "static/media/header-bg.png": "/responsive-react/static/media/header-bg.3ab855cf86ee9da9ba2b.png",
+    "static/media/rwd.jpg": "/responsive-react/static/media/rwd.5e0f424fd37f90305bc3.jpg",
+    "static/media/javascript.jpg": "/responsive-react/static/media/javascript.7468427371f3a7c77d2c.jpg",
+    "static/media/pricing3.png": "/responsive-react/static/media/pricing3.6bb84a829a0adb27bda9.png",
+    "index.html": "/responsive-react/index.html",
+    "static/media/wave.svg": "/responsive-react/static/media/wave.e52fe39627a0facbdf13b4e342ce65be.svg",
+    "main.e094f51d.css.map": "/responsive-react/static/css/main.e094f51d.css.map",
+    "main.f4f68349.js.map": "/responsive-react/static/js/main.f4f68349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e094f51d.css",
+    "static/js/main.f4f68349.js"
+  ]
+}
